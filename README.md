@@ -1,2 +1,2 @@
 # datalab
-# bitwise operations
+bitwise operations
